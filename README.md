@@ -1,1 +1,2 @@
-# Backend for the Borcelle e-commerce project
+# Borcelle e-commerce project
+Backend logic
