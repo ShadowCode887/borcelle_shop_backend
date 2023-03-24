@@ -1,2 +1,2 @@
 # Borcelle e-commerce project
-Backend logic
+Backend logic using Java Spring
